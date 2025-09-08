@@ -21,7 +21,7 @@ My current research interests include:
     <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
   </div>
   <div>
-    <strong>University of Science and Technology of China (USTC)</strong><br>
+    <strong><a href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><br>
     B.S. in Data Science, 2021 – present
   </div>
 </div>
@@ -31,9 +31,9 @@ My current research interests include:
     <img src="assets/img/mit.png" alt="MIT Logo" style="width:60px; border-radius: 8px;">
   </div>
   <div>
-    <strong>Massachusetts Institute of Technology (MIT), CSAIL</strong><br>
+    <strong><a href="https://www.csail.mit.edu/">Massachusetts Institute of Technology (MIT), CSAIL</a></strong><br>
     Research Intern, 2025 – present<br>
-    Advised by Prof. [Wojciech Matusik](https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ)
+    Advised by <a href="https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en">Prof. Wenjie Wang</a> and <a href="https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en">Prof. Fuli Feng</a>
   </div>
 </div>
 
@@ -42,7 +42,7 @@ My current research interests include:
     <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
   </div>
   <div>
-    <strong>LDS Lab, USTC</strong><br>
+    <strong><a href="https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/index.html">LDS Lab, USTC</a></strong><br>
     Research Intern, 2024 – present<br>
     Advised by Prof. [Wenjie Wang](https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en&oi=ao) and Prof. [Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en)
   </div>
