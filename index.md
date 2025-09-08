@@ -13,6 +13,7 @@ I am an undergraduate student majoring in Data Science at the University of Scie
 My current research interests include:
 - Exploring how to leverage the strong capabilities of generative models to build reliable and powerful systems.
 - Enhancing the abilities of existing LLMs and LMMs to perform specific tasks such as mathematics, code generation, and image generation.
+- Enhancing the capabilities of generative models through fine-tuning techniques and test-time scaling/training.
 
 ## Education & Experience
 
