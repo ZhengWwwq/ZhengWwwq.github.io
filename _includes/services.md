@@ -11,5 +11,5 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>Introduction to Artificial Intelligence (Fall 2025)</autocolor></a></li>
   <li><a href="https://github.com/ShirakawaSanae/USTC-DS4001-25sp"><autocolor>Introduction to Artificial Intelligence (Spring 2025)</autocolor></a></li>
-  <li><a href="https://github.com/ShirakawaSanae/USTC-DS4001-25sp"><autocolor>Stochastic Process</autocolor></a></li>
+  <li><a href="https://github.com/ShirakawaSanae/USTC-DS4001-25sp"><autocolor>Stochastic Process (Fall 2024)</autocolor></a></li>
 </ul>
