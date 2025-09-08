@@ -22,7 +22,7 @@ My current research interests include:
   </div>
   <div>
     <strong><a href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><br>
-    B.S. in Data Science, 2021 – present
+    B.S. in Data Science, 2022 – present
   </div>
 </div>
 
