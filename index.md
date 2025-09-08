@@ -33,7 +33,7 @@ My current research interests include:
   <div>
     <strong><a href="https://www.csail.mit.edu/">Massachusetts Institute of Technology (MIT), CSAIL</a></strong><br>
     Research Intern, 2025 – present<br>
-    Advised by <a href="https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en">Prof. Wenjie Wang</a> and <a href="https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en">Prof. Fuli Feng</a>
+    Advised by <a href="https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ">Prof. Wojciech Matusik</a>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ My current research interests include:
   <div>
     <strong><a href="https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/index.html">LDS Lab, USTC</a></strong><br>
     Research Intern, 2024 – present<br>
-    Advised by Prof. [Wenjie Wang](https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en&oi=ao) and Prof. [Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en)
+    Advised by <a href="https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en">Prof. Wenjie Wang</a> and <a href="https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en">Prof. Fuli Feng</a>
   </div>
 </div>
 
