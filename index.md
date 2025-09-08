@@ -24,7 +24,7 @@ My current research interests include:
     <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
   </div>
   <div>
-    <strong><a href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><br>
+    <strong><a href="https://en.ustc.edu.cn/">USTC</a></strong><br>
     B.S. in Data Science, 2022 – present
   </div>
 </div>
@@ -34,7 +34,7 @@ My current research interests include:
     <img src="assets/img/mit.png" alt="MIT Logo" style="width:60px; border-radius: 8px;">
   </div>
   <div>
-    <strong><a href="https://www.csail.mit.edu/">Massachusetts Institute of Technology (MIT), CSAIL</a></strong><br>
+    <strong><a href="https://www.csail.mit.edu/">MIT, CSAIL</a></strong><br>
     Research Intern, 2025 – present<br>
     Advised by <a href="https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ">Prof. Wojciech Matusik</a>
   </div>
