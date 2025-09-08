@@ -14,6 +14,41 @@ My current research interests include:
 - Exploring how to leverage the strong capabilities of generative models to build reliable and powerful systems.
 - Enhancing the abilities of existing LLMs and LMMs to perform specific tasks such as mathematics, code generation, and image generation.
 
+## Education & Experience
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
+    <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
+  </div>
+  <div>
+    <strong>University of Science and Technology of China (USTC)</strong><br>
+    B.S. in Data Science, 2021 – present
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
+    <img src="assets/img/mit.png" alt="MIT Logo" style="width:60px; border-radius: 8px;">
+  </div>
+  <div>
+    <strong>Massachusetts Institute of Technology (MIT), CSAIL</strong><br>
+    Research Intern, 2025 – present<br>
+    Advised by Prof. [Wojciech Matusik](https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ)
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
+    <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
+  </div>
+  <div>
+    <strong>LDS Lab, USTC</strong><br>
+    Research Intern, 2024 – present<br>
+    Advised by Prof. [Wenjie Wang](https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en&oi=ao) and Prof. [Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en)
+  </div>
+</div>
+
+
 ## News
 
 - **[Aug. 2025]** Our paper about academic paper evaluation leveraging LLMs has submitted to AAAI 2026.
