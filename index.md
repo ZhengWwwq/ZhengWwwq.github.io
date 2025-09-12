@@ -21,16 +21,6 @@ My current research interests include:
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
-    <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
-  </div>
-  <div>
-    <strong><a href="https://en.ustc.edu.cn/">USTC</a></strong><br>
-    B.S. in Data Science, 2022 – present
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 1em;">
-  <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
     <img src="assets/img/mit.png" alt="MIT Logo" style="width:60px; border-radius: 8px;">
   </div>
   <div>
@@ -48,6 +38,16 @@ My current research interests include:
     <strong><a href="https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/index.html">USTC, LDS</a></strong><br>
     Research Intern, 2024 – present<br>
     Advised by <a href="https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en">Prof. Wenjie Wang</a> and <a href="https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en">Prof. Fuli Feng</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
+    <img src="assets/img/ustc.png" alt="USTC Logo" style="width:60px; border-radius: 8px;">
+  </div>
+  <div>
+    <strong><a href="https://en.ustc.edu.cn/">USTC</a></strong><br>
+    B.S. in Data Science, 2022 – present
   </div>
 </div>
 
