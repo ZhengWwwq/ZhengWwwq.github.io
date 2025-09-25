@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student majoring in Data Science at the University of Science and Technology of China (USTC). Currently, I am a research intern at the [LDS Lab](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/index.html) at USTC, advised by Prof.[Wenjie Wang](https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en) and Prof.[Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en). Besides, I am also a research intern at the [CSAIL Lab](https://www.csail.mit.edu/) at MIT, advised by Prof.[Wojciech Matusik](https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ). My research interests lie in generative models, particularly Large Language Models and Large Multimodal Models.
+I am an undergraduate student majoring in Data Science at the University of Science and Technology of China (USTC). Currently, I am a research intern at the [LDS Lab](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/index.html) at USTC, advised by Prof.[Wenjie Wang](https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en) and Prof.[Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en). Besides, I am also a research intern at the [CSAIL Lab](https://www.csail.mit.edu/) at MIT, advised by Prof.[Wojciech Matusik](https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ). My research interests lie in NLP, generative models, particularly Large Language Models (LLMs) and Large Multimodal Models (LMMs).
 
 **I sincerely appreciate the guidance and trust of my mentors and the support from senior students and teachers who have given me invaluable opportunities along the way.**
 
@@ -12,10 +12,11 @@ I am an undergraduate student majoring in Data Science at the University of Scie
 
 ## Research Interests
 
-My current research interests include:
-- Exploring how to leverage the strong capabilities of generative models to build reliable and powerful systems.
-- Enhancing the abilities of existing LLMs and LMMs to perform specific tasks such as mathematics, code generation, and image generation.
-- Enhancing the capabilities of generative models through fine-tuning techniques and test-time scaling/training.
+1. LLM/LMM Capability Enhancement & Human-AI Interaction
+Focus on advancing the core competencies of existing LLMs and LMMs—including boosting performance in specific tasks (e.g., mathematics, code generation, image understanding and generation) via techniques like fine-tuning and test-time scaling/training—while prioritizing the optimization of smooth, effective human-AI interaction.
+
+2. LLM/LMM-Driven Reliable Application & System Building
+Explore leveraging generative models’ strengthened capabilities to build reliable and trustworthy tools and systems, with a focus on serving specific tasks and cross-domain needs (e.g., statistics, economics).
 
 ## Education & Experience
 
@@ -54,8 +55,9 @@ My current research interests include:
 
 ## News
 
-- **[Aug. 2025]** Our paper about academic paper evaluation leveraging LLMs has submitted to AAAI 2026.
-- **[Jul. 2025]** Our paper about personalized image generation leveraging LMMs is accepted to ACM MM 2025 (Oral).
+- **[Sep. 2025]** Two papers about LLM application are submitted to ICLR 2026!
+- **[Aug. 2025]** Our paper about academic paper evaluation leveraging LLMs has submitted to AAAI 2026!
+- **[Jul. 2025]** Our paper about personalized image generation leveraging LMMs is accepted to ACM MM 2025 (Oral)!
 
 {% include_relative _includes/publications.md %}
 
