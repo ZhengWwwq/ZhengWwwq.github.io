@@ -12,7 +12,7 @@ I am an undergraduate student majoring in Data Science at the University of Scie
 
 ## Research Interests
 
-**LLM/LMM Capability Enhancement & Human-AI Interaction.** 
+**LLM/LMM Scaling & Human-AI Interaction.** 
 Focus on advancing the core competencies of existing LLMs and LMMs—including boosting performance in specific tasks (e.g., mathematics, code generation, image understanding and generation) via techniques like fine-tuning and test-time scaling/training—while prioritizing the optimization of smooth, effective human-AI interaction.
 
 **LLM/LMM-Driven Reliable Application & System Building.** 
