@@ -61,6 +61,9 @@ Explore leveraging generative models’ strengthened capabilities to build relia
 - **[Aug. 2025]** Our paper about academic paper evaluation leveraging LLMs has submitted to AAAI 2026!
 - **[Jul. 2025]** Our paper about personalized image generation leveraging LMMs is accepted to ACM MM 2025 (Oral)!
 
+## Selected Awards
+  - **[Sep. 2025]** National Scholarship
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
