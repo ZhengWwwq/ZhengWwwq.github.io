@@ -12,11 +12,11 @@ I am an undergraduate student majoring in Data Science at the University of Scie
 
 ## Research Interests
 
-**LLM/LMM Scaling & Human-AI Interaction.** 
-Focus on advancing the core competencies of existing LLMs and LMMs—including boosting performance in specific tasks (e.g., mathematics, code generation, image understanding and generation) via techniques like fine-tuning and test-time scaling/training—while prioritizing the optimization of smooth, effective human-AI interaction.
+My research interests focus on advancing the training of Large Language Models to enhance their core capabilities in understanding, reasoning, and generation, with three interconnected technical dimensions:
 
-**LLM/LMM-Driven Reliable Application & System Building.** 
-Explore leveraging generative models’ strengthened capabilities to build reliable and trustworthy tools and systems, with a focus on serving specific tasks and cross-domain needs (e.g., statistics, economics).
++ From the data perspective, investigating methodologies for constructing, acquiring, and filtering high-quality training data to maximize the efficacy of model training.
++ From the algorithm perspective, exploring the design of more stable and efficient training algorithms that adapt to diverse task characteristics, ensuring robust model performance across scenarios.
++ From the training paradigm perspective, developing innovative, high-performance paradigms (e.g., enabling models to learn from interaction with humans/environments, test-time dynamic learning) to bridge the gap between general pre-training and real-world downstream task demands.
 
 ## Education & Experience
 
