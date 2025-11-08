@@ -2,12 +2,12 @@ main:
 
   - title: "Navigating Through Paper Flood: Advancing LLM-based Paper Evaluation through Domain-Aware Retrieval and Latent Reasoning"
     authors: <strong>Wuqiang Zheng</strong>, Yiyan Xu, Xinyu Lin, Chongming Gao, Wenjie Wang, Fuli Feng
-    conference_short: Under Review
-    conference: Under Review
+    conference_short: AAAI 2026
+    conference: The 40th Annual AAAI Conference on Artificial Intelligence
     pdf: https://arxiv.org/pdf/2508.05129
     code: https://anonymous.4open.science/r/PaperEval-85D7
     image: ./assets/img/AAAI_PaperEval.png
-    # notes: Early Accept
+    notes: Oral Presentation
 
   - title: "DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition"
     authors: Yiyan Xu, <strong>Wuqiang Zheng</strong>, Wenjie Wang, Fengbin Zhu, Xinting Hu, Yang Zhang, Fuli Feng, Tat-Seng Chua
