@@ -55,6 +55,7 @@ My research interests focus on advancing the training of Large Language Models t
 
 ## News
 
+- **[Nov. 2025]** One paper about academic paper evaluation leveraging LLMs is accepted to AAAI 2026 (Oral)!
 - **[Sep. 2025]** Two papers about LLM application are submitted to ICLR 2026!
 - **[Aug. 2025]** Our paper about academic paper evaluation leveraging LLMs has submitted to AAAI 2026!
 - **[Jul. 2025]** Our paper about personalized image generation leveraging LMMs is accepted to ACM MM 2025 (Oral)!
