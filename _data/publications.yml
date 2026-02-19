@@ -12,13 +12,13 @@ main:
     conference_short: AAAI 2026
     conference: The 40th Annual AAAI Conference on Artificial Intelligence
     pdf: https://arxiv.org/pdf/2508.05129
-    code: https://github.com/ZhengWwwq/DRC
+    code: https://github.com/ZhengWwwq/PaperEval
     image: ./assets/img/AAAI_PaperEval.png
     notes: Oral Presentation
 
   - title: "DRC: Enhancing Personalized Image Generation via Disentangled Representation Composition"
     authors: Yiyan Xu, <strong>Wuqiang Zheng</strong>, Wenjie Wang, Fengbin Zhu, Xinting Hu, Yang Zhang, Fuli Feng, Tat-Seng Chua
-    conference_short: ACMMM
+    conference_short: ACMMM 2025
     conference: ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2504.17349
     code: https://github.com/ZhengWwwq/DRC
