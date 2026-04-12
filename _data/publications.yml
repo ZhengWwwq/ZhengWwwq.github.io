@@ -1,8 +1,17 @@
 main:
 
+  - title: "AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment"
+    authors: Jianfei Xiao, Xiang Yu, Chengbing Wang, <strong>Wuqiang Zheng</strong>, Xinyu Lin, Kaining Liu, Hongxun Ding, Yang Zhang, Wenjie Wang, Fuli Feng, Xiangnan He
+    conference_short: SIGIR 2026 Resources Track
+    conference: The 49th International ACM SIGIR Conference on Research and Development in Information Retrieval
+    pdf: https://arxiv.org/pdf/2603.26680
+    code: https://github.com/ThisIsCosine/AlpsBench
+    image: ./assets/img/alpsbench.png
+
   - title: "PERM: Psychology-grounded Empathetic Reward Modeling for Large Language Models"
     authors: Chengbing Wang*, <strong>Wuqiang Zheng*</strong>, Yang Zhang, Fengbin Zhu, Junyi Cheng, Yi Xie, Wenjie Wang, Fuli Feng
-    conference_short: Preprint
+    conference_short: ACL 2026 Findings
+    conference: The 64th Annual Meeting of the Association for Computational Linguistics
     pdf: https://arxiv.org/pdf/2601.10532
     code: https://github.com/ZhengWwwq/PERM
     image: ./assets/img/PERM.png
