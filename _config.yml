@@ -1,8 +1,8 @@
 # Basic Information 
 title: Wuqiang Zheng
-position: Undergraduate Student
-affiliation: University of Science and Technology of China
-email: zhengwq@mail.ustc.edu.cn
+position: PhD Student
+affiliation: Nanyang Technological University
+email: qqqqqzheng@gmail.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -21,8 +21,8 @@ github_link: https://github.com/ZhengWwwq
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/picture.png
-favicon: ./assets/img/ustc.png
-favicon_dark: ./assets/img/ustc.png
+favicon: ./assets/img/ntu.png
+favicon_dark: ./assets/img/ntu.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
