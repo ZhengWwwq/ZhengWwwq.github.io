@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student majoring in Data Science at the University of Science and Technology of China (USTC). Currently, I am a research intern at the [LDS Lab](https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/index.html) at USTC, advised by Prof.[Wenjie Wang](https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en) and Prof.[Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en). Besides, I am also a research intern at the [CSAIL Lab](https://www.csail.mit.edu/) at MIT, advised by Prof.[Wojciech Matusik](https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ). My research interests lie in NLP, particularly Large Language Models (LLMs).
+I am a PhD student at NTU, advised by Prof. [Wei Lu](https://scholar.google.com/citations?hl=en&user=n41KN9AAAAAJ). I obtained my B.S degree from the University of Science and Technology of China (USTC). At USTC, I was advised by Prof.[Wenjie Wang](https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en) and Prof.[Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en). Besides, I was a research intern at the [CSAIL Lab](https://www.csail.mit.edu/) at MIT, advised by Prof.[Wojciech Matusik](https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ). My research interests lie in NLP, particularly Large Language Models (LLMs).
 
 ## Research Interests
 
@@ -18,11 +18,22 @@ My research interests focus on advancing the training of Large Language Models t
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
+    <img src="assets/img/ntu.png" alt="NTU Logo" style="width:60px; border-radius: 8px;">
+  </div>
+  <div>
+    <strong><a href="https://www.ntu.edu.sg/">NTU, CCDS</a></strong><br>
+    PhD Student, 2026 - Present<br>
+    Advised by <a href="https://scholar.google.com/citations?hl=en&user=n41KN9AAAAAJ">Prof. Wei Lu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 60px; text-align: center; margin-right: 15px;">
     <img src="assets/img/mit.png" alt="MIT Logo" style="width:60px; border-radius: 8px;">
   </div>
   <div>
     <strong><a href="https://www.csail.mit.edu/">MIT, CSAIL</a></strong><br>
-    Research Intern, 2025 – present<br>
+    Research Intern, 2025 – 2026<br>
     Advised by <a href="https://scholar.google.com/citations?hl=en&user=wbIMbL8AAAAJ">Prof. Wojciech Matusik</a>
   </div>
 </div>
@@ -33,7 +44,7 @@ My research interests focus on advancing the training of Large Language Models t
   </div>
   <div>
     <strong><a href="https://data-science.ustc.edu.cn/_upload/tpl/15/04/5380/template5380/index.html">USTC, LDS</a></strong><br>
-    Research Intern, 2024 – present<br>
+    Research Intern, 2024 – 2026<br>
     Advised by <a href="https://scholar.google.com/citations?user=Ma5DtmoAAAAJ&hl=en">Prof. Wenjie Wang</a> and <a href="https://scholar.google.com/citations?user=QePM4u8AAAAJ&hl=en">Prof. Fuli Feng</a>
   </div>
 </div>
@@ -44,7 +55,7 @@ My research interests focus on advancing the training of Large Language Models t
   </div>
   <div>
     <strong><a href="https://en.ustc.edu.cn/">USTC</a></strong><br>
-    B.S. in Data Science, 2022 – present
+    B.S. in Data Science, 2022 – 2026
   </div>
 </div>
 
