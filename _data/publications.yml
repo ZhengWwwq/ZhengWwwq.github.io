@@ -6,7 +6,7 @@ main:
     conference: The 2026 Conference on Empirical Methods in Natural Language Processing
     pdf: https://aclanthology.org/2026.findings-emnlp.2227.pdf
     code: https://github.com/ZhengWwwq/PersonalizedEmpathy
-    image: ./assets/img/peregrm.png
+    image: ./assets/img/PereGRM.png
 
   - title: "AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment"
     authors: Jianfei Xiao, Xiang Yu, Chengbing Wang, <strong>Wuqiang Zheng</strong>, Xinyu Lin, Kaining Liu, Hongxun Ding, Yang Zhang, Wenjie Wang, Fuli Feng, Xiangnan He
