@@ -62,10 +62,10 @@ My research interests focus on advancing the training of Large Language Models t
 
 ## News
 
+- **I am a PhD student at NTU CCDS now, advised by Prof. Wei Lu!**
+- **[Aug. 2026]** One paper is accepted to EMNLP 2026 Findings!
 - **[Apr. 2026]** One paper is accepted to SIGIR 2026!
 - **[Apr. 2026]** One paper is accepted to ACL 2026 Findings!
-- **[Nov. 2025]** One paper about academic paper evaluation leveraging LLMs is accepted to AAAI 2026 (Oral)!
-- **[Jul. 2025]** Our paper about personalized image generation leveraging LMMs is accepted to ACM MM 2025 (Oral)!
 
 ## Selected Awards
   - **[Sep. 2025]** National Scholarship
